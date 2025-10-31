@@ -4,13 +4,12 @@ public:
         unordered_map <int, int > mp;
         vector <int> ans;
         for (auto &p : nums){
+            if (mp.count(p)){
+                ans.push_back(p);
+            }
             mp[p]++;
         }
-        for (auto &c : mp){
-            if (c.second==2){
-                ans.push_back(c.first);
-            }
-        }
+        
         return ans;
     }
 };
