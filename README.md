@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Raj200X/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Raj200X/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
