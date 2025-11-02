@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raj200X/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
