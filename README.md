@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raj200X/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raj200X/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
