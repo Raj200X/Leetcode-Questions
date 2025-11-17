@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raj200X/Leetcode-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
