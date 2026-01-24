@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Raj200X/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raj200X/Leetcode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
