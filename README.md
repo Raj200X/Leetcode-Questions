@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raj200X/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3731-find-missing-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raj200X/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3731-find-missing-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Raj200X/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Raj200X/Leetcode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3731-find-missing-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |
