@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Raj200X/Leetcode-Questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Raj200X/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Raj200X/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raj200X/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Raj200X/Leetcode-Questions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
