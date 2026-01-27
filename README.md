@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Raj200X/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Prefix Sum
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raj200X/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/Raj200X/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Raj200X/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
