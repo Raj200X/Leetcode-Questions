@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Raj200X/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/Raj200X/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Raj200X/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Raj200X/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raj200X/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -174,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Raj200X/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Raj200X/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
