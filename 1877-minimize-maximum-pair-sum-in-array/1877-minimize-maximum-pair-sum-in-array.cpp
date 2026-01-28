@@ -7,9 +7,7 @@ public:
       int maxsum = INT_MIN;
       while(l<h){
         int sum = nums[l]+nums[h];
-        if (sum>maxsum){
             maxsum = max(sum,maxsum);
-        }
         l++;
         h--;
       }
