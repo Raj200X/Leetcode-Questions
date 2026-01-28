@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raj200X/Leetcode-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Raj200X/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Raj200X/Leetcode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Raj200X/Leetcode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Raj200X/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raj200X/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Bucket Sort
 |  |
 | ------- |
