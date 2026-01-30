@@ -12,14 +12,13 @@ public:
         while (h < nums.size()) {
             if (l>0) {
                 int sum = prefix_sum[h] - prefix_sum[l - 1];
-                cout << sum << " ";
                 max_sum = max(max_sum, sum);
                 l++;
                 h++;
             }
             else{
                 int sum = prefix_sum[h];
-            // cout << sum << " ";
+
             max_sum = max(max_sum, sum);
             l++;
             h++;
