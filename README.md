@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raj200X/Leetcode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0881-boats-to-save-people](https://github.com/Raj200X/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Raj200X/Leetcode-Questions/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
