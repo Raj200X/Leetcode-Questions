@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raj200X/Leetcode-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
+| [1652-defuse-the-bomb](https://github.com/Raj200X/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj200X/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1652-defuse-the-bomb](https://github.com/Raj200X/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
