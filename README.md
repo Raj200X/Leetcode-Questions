@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Raj200X/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/Raj200X/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Raj200X/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raj200X/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Raj200X/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
