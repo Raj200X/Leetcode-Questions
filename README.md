@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Raj200X/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj200X/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raj200X/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Raj200X/Leetcode-Questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/Raj200X/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Raj200X/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj200X/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raj200X/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Queue
