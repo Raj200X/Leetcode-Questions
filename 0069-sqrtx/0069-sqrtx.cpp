@@ -1,23 +1,16 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        vector <int> arr;
-        for (int i = 0;i<=46340;i++){
-            arr.push_back(i*i);
-        }
-        int l = 0;
-        int h = arr.size()-1;
-        while (l<=h){
-            int mid = l + (h-l)/2;
-            if (arr[mid]>x){
-                h = mid-1;
-            }
-            else if (arr[mid]<x){
+        if (x < 2) return x; 
+        int l = 1, h = x / 2;
+
+        while (l <= h) {
+            int mid = l + (h - l) / 2;
+
+            if ((long long) mid * mid <= x)
                 l = mid + 1;
-            }
-            else{
-                return mid;
-            }
+            else
+                h = mid - 1;
         }
         return h;
     }
