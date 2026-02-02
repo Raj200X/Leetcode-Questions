@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Raj200X/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raj200X/Leetcode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Raj200X/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj200X/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Raj200X/Leetcode-Questions/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Raj200X/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Raj200X/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Raj200X/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj200X/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
