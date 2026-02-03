@@ -3,27 +3,23 @@ public:
     bool isTrionic(vector<int>& nums) {
         int p = 0;
         int q = nums.size()-1;
-        for (int i = 0;i+1<nums.size();i++){
+        int n = nums.size();
+        for (int i = 0,j = n-1;i<j;){
             if (nums[i]<nums[i+1]){
                 p++;
+                i++;
             }
-            else{
-                break;
-            }
-        }
-        for (int i = nums.size()-1;i>p;i--){
-            if (nums[i]>nums[i-1]){
+            else if (nums[j]>nums[j-1]){
                 q--;
+                j--;
             }
             else{
                 break;
             }
+
         }
         
         if (p==0 || q==nums.size()-1){
-            return false;
-        }
-        if (p>q){
             return false;
         }
         for (int i = p;i<q;i++){
