@@ -19,7 +19,6 @@ public:
                 break;
             }
         }
-        cout << "p:" << p << "q: " << q << endl;
         
         if (p==0 || q==nums.size()-1){
             return false;
