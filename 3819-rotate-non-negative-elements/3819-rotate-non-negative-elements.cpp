@@ -10,21 +10,18 @@ public:
         reverse(nums.begin(), nums.end());
     }
     vector<int> rotateElements(vector<int>& nums, int k) {
-        unordered_set <int> indices;
+        vector <int> indices;
         vector <int> elements;
         for (int i = 0;i<nums.size();i++){
             if (nums[i]>=0){
-                indices.insert(i);
+                indices.push_back(i);
                 elements.push_back(nums[i]);
             }
         }
 
         rotate(elements,k);
-        int j = 0;
-        for (int i = 0;i<nums.size();i++){
-            if (indices.count(i)){
-                nums[i] = elements[j++];
-            }
+        for (int i = 0;i<indices.size();i++){
+                nums[indices[i]] = elements[i];
         }
         return nums;
         
