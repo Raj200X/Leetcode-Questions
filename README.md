@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2386-min-max-game](https://github.com/Raj200X/Leetcode-Questions/tree/master/2386-min-max-game) |
+| [3819-rotate-non-negative-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3819-rotate-non-negative-elements) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3731-find-missing-elements) |
+| [3819-rotate-non-negative-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3819-rotate-non-negative-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
