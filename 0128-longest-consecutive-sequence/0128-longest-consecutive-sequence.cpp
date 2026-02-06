@@ -9,15 +9,14 @@ public:
         for (auto x : nums) {
             st.insert(x);
         }
-
         int count = 1;
-        vector<int> newarr;
+        nums.clear();
         for (auto& x : st) {
-            newarr.push_back(x);
+            nums.push_back(x);
         }
         int ans = 1;
-        for (int i = 1; i < newarr.size(); i++) {
-            if ((newarr[i] - newarr[i - 1]) > 1) {
+        for (int i = 1; i < nums.size(); i++) {
+            if ((nums[i] - nums[i - 1]) > 1) {
                 count = 1;
             } else {
                 count++;
