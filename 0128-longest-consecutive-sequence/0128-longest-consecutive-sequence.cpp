@@ -9,25 +9,23 @@ public:
         for (auto x : nums) {
             st.insert(x);
         }
-            int ans = 0;
+        int ans = 0;
         for (auto x : st) {
 
+            if (!st.count(x - 1)) {
 
-        if (!st.count(x - 1)) {
+                int curr = x;
+                int count = 1;
 
-            int curr = x;
-            int count = 1;
+                while (st.count(curr + 1)) {
+                    curr++;
+                    count++;
+                }
 
-            while (st.count(curr + 1)) {
-                curr++;
-                count++;
+                ans = max(ans, count);
             }
-
-            ans = max(ans, count);
         }
-    }
-        
+
         return ans;
     }
-    
 };
