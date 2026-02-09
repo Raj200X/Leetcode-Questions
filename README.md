@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Raj200X/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj200X/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raj200X/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Raj200X/Leetcode-Questions/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj200X/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
