@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Raj200X/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raj200X/Leetcode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Raj200X/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Raj200X/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 ## Enumeration
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raj200X/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
