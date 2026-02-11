@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Raj200X/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Raj200X/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Raj200X/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Raj200X/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Raj200X/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Raj200X/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
