@@ -12,7 +12,7 @@
 class Solution {
 public:
     void traverse(TreeNode* root,int target,int sum,bool &check){
-        if (root==nullptr){
+        if (root==NULL){
             return;
         }
         sum+=root->val;
@@ -29,9 +29,6 @@ public:
         int sum = 0;
         bool ans = false;
         traverse(root,targetSum,sum,ans);
-
-   
-
         return ans;
 
     }
