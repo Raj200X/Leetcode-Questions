@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Raj200X/Leetcode-Questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
