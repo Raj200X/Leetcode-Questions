@@ -13,9 +13,6 @@ public:
     
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         int r = root->val;
-        if (p->val<r && q->val>r){
-            return root;
-        }
         if (p->val<r && q->val<r){
             return lowestCommonAncestor(root->left,p,q);
         }
