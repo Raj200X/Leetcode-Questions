@@ -17,8 +17,7 @@ public:
             return nullptr;
         }
         int middle = (s + e) / 2;
-        int element = nums[middle];
-        TreeNode* root = new TreeNode(element);
+        TreeNode* root = new TreeNode(nums[middle]);
         root->left = construct(nums, s, middle-1);
         root->right = construct(nums, middle + 1, e);
         return root;
