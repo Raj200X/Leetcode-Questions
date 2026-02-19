@@ -22,7 +22,7 @@
 class Solution {
 public:
 
-    TreeNode* construct(vector<int>arr,int s,int e){
+    TreeNode* construct(vector<int> &arr,int s,int e){
         if (s>e){
             return nullptr;
         }
