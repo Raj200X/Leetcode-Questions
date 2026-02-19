@@ -26,6 +26,7 @@ public:
         if (s>e){
             return nullptr;
         }
+        if(s==e) return new TreeNode(arr[s]);
         int mid = (s+e)/2;
         TreeNode* root = new TreeNode(arr[mid]);
         root->left = construct(arr,s,mid-1);
