@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Raj200X/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 | [2386-min-max-game](https://github.com/Raj200X/Leetcode-Questions/tree/master/2386-min-max-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raj200X/Leetcode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raj200X/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Number Theory
 |  |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Raj200X/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
+| [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 ## Enumeration
 |  |
 | ------- |
@@ -441,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raj200X/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
