@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Raj200X/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Raj200X/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Raj200X/Leetcode-Questions/tree/master/0441-arranging-coins) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Raj200X/Leetcode-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raj200X/Leetcode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Binary Search
