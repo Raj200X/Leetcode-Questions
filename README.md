@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Raj200X/Leetcode-Questions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0338-counting-bits) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Raj200X/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Raj200X/Leetcode-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raj200X/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj200X/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Raj200X/Leetcode-Questions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Raj200X/Leetcode-Questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
