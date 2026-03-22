@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj200X/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Raj200X/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raj200X/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Raj200X/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
