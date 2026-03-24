@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Raj200X/Leetcode-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1929-concatenation-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Raj200X/Leetcode-Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
