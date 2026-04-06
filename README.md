@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0258-add-digits) |
+| [0874-walking-robot-simulation](https://github.com/Raj200X/Leetcode-Questions/tree/master/0874-walking-robot-simulation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Raj200X/Leetcode-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1929-concatenation-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Raj200X/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj200X/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/Raj200X/Leetcode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Raj200X/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raj200X/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
+| [0874-walking-robot-simulation](https://github.com/Raj200X/Leetcode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
