@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Raj200X/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Raj200X/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raj200X/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Raj200X/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Raj200X/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Raj200X/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Raj200X/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
