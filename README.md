@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Raj200X/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Raj200X/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Raj200X/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Raj200X/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Raj200X/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raj200X/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Raj200X/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raj200X/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Function
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Raj200X/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Raj200X/Leetcode-Questions/tree/master/0322-coin-change) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Raj200X/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Raj200X/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
