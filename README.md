@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Raj200X/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Raj200X/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0788-rotated-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raj200X/Leetcode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj200X/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0788-rotated-digits) |
 | [1092-shortest-common-supersequence](https://github.com/Raj200X/Leetcode-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Raj200X/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
