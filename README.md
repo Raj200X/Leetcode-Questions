@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Raj200X/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Raj200X/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raj200X/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj200X/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0788-rotated-digits) |
 | [1092-shortest-common-supersequence](https://github.com/Raj200X/Leetcode-Questions/tree/master/1092-shortest-common-supersequence) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Raj200X/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Raj200X/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raj200X/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Raj200X/Leetcode-Questions/tree/master/0733-flood-fill) |
