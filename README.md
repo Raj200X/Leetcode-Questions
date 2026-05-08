@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj200X/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Raj200X/Leetcode-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Raj200X/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Raj200X/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Raj200X/Leetcode-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raj200X/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Raj200X/Leetcode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Raj200X/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Raj200X/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Raj200X/Leetcode-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Raj200X/Leetcode-Questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0494-target-sum) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Raj200X/Leetcode-Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Binary Search Tree
 |  |
 | ------- |
