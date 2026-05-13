@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Raj200X/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Raj200X/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raj200X/Leetcode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Raj200X/Leetcode-Questions/tree/master/0733-flood-fill) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raj200X/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Raj200X/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/Raj200X/Leetcode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Raj200X/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Raj200X/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Raj200X/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/Raj200X/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Raj200X/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Raj200X/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0705-design-hashset](https://github.com/Raj200X/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 ## Enumeration
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Raj200X/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 ## Tree
 |  |
