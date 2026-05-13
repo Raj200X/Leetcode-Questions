@@ -1,17 +1,20 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int ans = nums.size();
-        nums.push_back(-1);
-        int j=0;
-        while(j<nums.size()){
-            if(nums[j]==j) j++;
-            else if(nums[j]==-1){
-                ans = j;
-                j++;
+        int i = 0;
+        while (i < nums.size()) {
+            int correct = nums[i];
+            if (nums[i] < nums.size() && nums[correct] != nums[i]) {
+                swap(nums[correct], nums[i]);
+            } else {
+                i++;
             }
-            else swap(nums[j],nums[nums[j]]);
         }
-        return ans;
+        for (int i = 0; i < nums.size(); i++) {
+            if (i != nums[i]) {
+                return i;
+            }
+        }
+        return nums.size();
     }
 };
