@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raj200X/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Raj200X/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Raj200X/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Raj200X/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raj200X/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -538,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Raj200X/Leetcode-Questions/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
