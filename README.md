@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Raj200X/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Raj200X/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Raj200X/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Raj200X/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0509-fibonacci-number) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Raj200X/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raj200X/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Raj200X/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Raj200X/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Raj200X/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Raj200X/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Raj200X/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raj200X/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Raj200X/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Raj200X/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
