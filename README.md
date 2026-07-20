@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Raj200X/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0788-rotated-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Raj200X/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Raj200X/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Raj200X/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Raj200X/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raj200X/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raj200X/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Raj200X/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
