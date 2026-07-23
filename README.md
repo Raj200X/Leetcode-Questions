@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Number Theory
 |  |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Raj200X/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Raj200X/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Enumeration
 |  |
 | ------- |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Raj200X/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raj200X/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Ordered Set
 |  |
 | ------- |
@@ -607,4 +610,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
