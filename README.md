@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj200X/Leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
+| [1514-path-with-maximum-probability](https://github.com/Raj200X/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Raj200X/Leetcode-Questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Raj200X/Leetcode-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Raj200X/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raj200X/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Raj200X/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Raj200X/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Raj200X/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raj200X/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Ordered Set
@@ -613,5 +616,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Raj200X/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
