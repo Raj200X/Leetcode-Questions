@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Raj200X/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raj200X/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raj200X/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Raj200X/Leetcode-Questions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Raj200X/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raj200X/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raj200X/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Ordered Set
 |  |
@@ -612,10 +614,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Raj200X/Leetcode-Questions/tree/master/0207-course-schedule) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raj200X/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Raj200X/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Raj200X/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raj200X/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
