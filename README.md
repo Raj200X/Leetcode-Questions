@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3819-rotate-non-negative-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/3819-rotate-non-negative-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Raj200X/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Raj200X/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Raj200X/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Raj200X/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Raj200X/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raj200X/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Raj200X/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Ordered Set
 |  |
 | ------- |
