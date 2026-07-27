@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Raj200X/Leetcode-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raj200X/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Raj200X/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj200X/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Raj200X/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Raj200X/Leetcode-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raj200X/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2353-design-a-food-rating-system](https://github.com/Raj200X/Leetcode-Questions/tree/master/2353-design-a-food-rating-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raj200X/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
