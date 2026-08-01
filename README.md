@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Raj200X/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Raj200X/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Raj200X/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Raj200X/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Raj200X/Leetcode-Questions/tree/master/0633-sum-of-square-numbers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raj200X/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Raj200X/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Raj200X/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Raj200X/Leetcode-Questions/tree/master/0542-01-matrix) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Raj200X/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Raj200X/Leetcode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Raj200X/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Raj200X/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Raj200X/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Raj200X/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Raj200X/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Raj200X/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Raj200X/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Raj200X/Leetcode-Questions/tree/master/0518-coin-change-ii) |
@@ -651,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Raj200X/Leetcode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raj200X/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Raj200X/Leetcode-Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Raj200X/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
